@@ -148,5 +148,5 @@ git push origin master
 
 ## Autores
 
-- Angel Daniel Hernandez Arteag
+- Angel Daniel Hernandez Arteaga
 - Fernando Cruz Calderon
